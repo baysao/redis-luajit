@@ -1,5 +1,5 @@
 # redis-luajit
-Redis support luajit
+Redis support luajit based on project https://github.com/coleifer/redis-luajit
 
 # How to
 ```sh
